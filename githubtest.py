@@ -1,3 +1,3 @@
 # hi :)
 dslkjns
-input()
+print(2)
